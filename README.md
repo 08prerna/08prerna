@@ -2,7 +2,6 @@
 - 👀 I’m interested in Web Development 
 - 🌱 I’m currently learning the skills and implementing it through projects
 - 📫 How to reach me ...
-- ![image](https://github.com/08prerna/08prerna/assets/132763290/1866f4b0-b036-41fa-9185-838ddaf186da)
 www.linkedin.com/in/prerana-dhayfule
 
 <!---
