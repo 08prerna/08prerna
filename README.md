@@ -1,7 +1,14 @@
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
+         alt="Waving hand animated gif"
+         height="45"
+         width="45" />, I'm Prerana Dhayfule
+</h1> 
 
-<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/75851313/151668395-5591532b-28da-46a6-9476-7c9694bcb60e.gif" width="380" height="320"/>
-<h1 align="left">Hi 👋, I'm Prerana Dhayfule</h1>
-<h3 align="left">A passionate Web Developer from India</h3>
+<h3 align="center">A passionate Web Developer from India.</h3>
+
+<img align="right" alt="GIF" src="https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif" width="380" height="320"/>
+
+
 
 
 <h3 align="left">Connect with me:</h3>
