@@ -1,5 +1,5 @@
 
-<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/75851313/151668395-5591532b-28da-46a6-9476-7c9694bcb60e.gif" width="350"/>
+<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/75851313/151668395-5591532b-28da-46a6-9476-7c9694bcb60e.gif" width="380" height="320"/>
 <h1 align="left">Hi 👋, I'm Prerana Dhayfule</h1>
 <h3 align="left">A passionate Web Developer from India</h3>
 
