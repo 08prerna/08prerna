@@ -6,7 +6,7 @@
 
 <h3 align="center">A passionate Web Developer from India.</h3>
 
-<img align="right" alt="GIF" src="https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif" width="380" height="320"/>
+<img align="right" alt="GIF" src="https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif" width="350"/>
 
 
 
