@@ -1,5 +1,5 @@
-<div style="width:100%;height:0;padding-bottom:64%;position:relative;"><iframe src="https://giphy.com/embed/L8K62iTDkzGX6" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/web-development-L8K62iTDkzGX6">via GIPHY</a></p>
 
+![Developers Gif](https://github.com/08prerna/08prerna/assets/132763290/98119d74-73a4-4401-9059-2169c36bd341)
 
 <h1 align="center">Hi 👋, I'm Prerana Dhayfule</h1>
 <h3 align="center">A passionate Web Developer from India</h3>
